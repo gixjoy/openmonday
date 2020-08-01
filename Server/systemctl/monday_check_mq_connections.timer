@@ -1,0 +1,8 @@
+[Unit]
+Description=Monday process for checking status of Mosquitto connections to devices topics
+[Timer]
+OnBootSec=10
+OnUnitActiveSec=10
+AccuracySec=1ms
+[Install]
+WantedBy=timers.target

@@ -1,0 +1,6 @@
+[Unit]
+Description=Monday process for checking status of Mosquitto connections to devices topics
+[Service]
+ExecStart=/usr/bin/php /var/www/html/monday/process/check_mosquitto_connections.php
+StandardOutput=file:/var/log/monday/monday_mq_connections.log
+StandardError=file:/var/log/monday/monday_mq_connections.log

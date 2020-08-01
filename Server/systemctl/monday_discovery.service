@@ -1,0 +1,6 @@
+[Unit]
+Description=Monday devices discovery and IP updating process
+[Service]
+ExecStart=/usr/bin/php /var/www/html/monday/process/discovery_auto.php
+StandardOutput=file:/var/log/monday/monday_discovery.log
+StandardError=file:/var/log/monday/monday_discovery.log

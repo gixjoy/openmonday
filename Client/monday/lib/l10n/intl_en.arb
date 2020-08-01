@@ -1,0 +1,246 @@
+{
+  "loginOr": "or",
+  "loginTouchIcon": "Touch the icon for using your fingerprint",
+
+  "homeWelcome": "Hello!",
+  "homeDevices": "Devices",
+  "homeUpdatedOn": "Last update",
+  "homeRooms": "Rooms",
+  "homeAlarmButton": "Door",
+  "homeNewButton": "New",
+  "homeClimateButton": "Climate",
+  "homeLightButton": "Light",
+  "homeShutterButton": "Shutter",
+  "homeOutletButton": "Outlet",
+  "homeSurveillanceButton": "Video",
+  "homeAddRoom": "Add",
+
+  "drawerUserAccount": "User account",
+  "drawerNotifications": "Notifications",
+  "drawerDevices": "Devices",
+  "drawerScenes": "Scenes",
+  "drawerCharts": "Charts",
+  "drawerInfo": "System info",
+  "drawerLogout": "Logout",
+
+  "alarmTitle": "Door",
+  "alarmStatus": "Status",
+
+  "chartTitle": "Charts",
+
+  "timeButtonNow": "Now",
+  "timeButtonToday": "Today",
+  "timeButtonMonth": "Month",
+
+  "chartTemperature": "Temperature",
+  "chartHumidity": "Humidity",
+  "chartConsumptions": "Total Consumptions",
+  "chartConsumption": "Consumption",
+  "chartHour": "Hours",
+  "chartDays": "Days",
+  "chartAvg": "Avg",
+
+  "devConfigTitle": "Device",
+  "devWarningTypeSelectionTitle": "Warning!",
+  "devWarningTypeSelectionBody": "Select a type for the new device",
+  "devWarningNameSelectionBody": "Select a name for the new device",
+  "devConfigSelectDeviceText": "Select a type for the device",
+
+  "devInfoName": "Name",
+  "devInfoRoom": "Room",
+  "devInfoType": "Type",
+  "devInfoConsumption": "Consumption",
+
+  "devices": "Devices",
+  "devicesInfo": "Info",
+  "devicesEdit": "Edit",
+  "devicesDelete": "Delete",
+
+  "devActionNoDevice": "No configured device",
+
+  "devNotAvailable": "No available device",
+
+  "editAutomatedSceneTitle": "Edit scene",
+  "editAutomatedSceneCondition": "Condition",
+  "editAutomatedSceneAction": "Action",
+  "editAutomatedSceneNoAction": "No configured action",
+  "editAutomatedSceneCondConf": "It's necessary to configure at least one condition to move forward",
+  "editAutomatedSceneCondOperator": "It's necessary to select and operator for enabled conditions",
+  "editAutomatedScenePeriodic": "Periodic",
+
+  "editManualSceneTitle": "Edit scene",
+  "editManualSceneAction": "Action",
+  "editManualSceneNoAction": "No configured action",
+
+  "heaterNoDeviceFound": "No climate device found",
+  "heaterSensorLife": "Sensor battery",
+  "heaterDetectedOn": "Detected on",
+
+  "lightTitleBar": "Lights",
+
+  "deviceLight": "Light",
+  "deviceOutlet": "Outlet",
+  "deviceClimate": "Climate",
+  "deviceShutter": "Shutter",
+  "deviceClimateSensor": "Climate Sensor",
+  "deviceAlarmSensor": "Alarm sensor",
+  "deviceVideo": "Video",
+
+  "roomSelectionDevice": "Select a room for the device",
+  "roomNotAvailable": "No room available",
+  "roomConfirmDeletion": "Do you want to proceed deleting the room?",
+
+  "warningMsg": "Warning!",
+  "deleteConfirmation": "Do you really want to remove the device?",
+
+  "yes": "Yes",
+  "no": "No",
+
+  "deviceRemovalMsg": "Device belongs to one or more scenes. Please delete the scenes first",
+
+  "newAutomatedSceneTitle": "Automated scene",
+  "newAutomatedSceneCondition": "Condition",
+  "newAutomatedSceneAction": "Action",
+  "newAutomatedSceneNoAction": "No configured action",
+  "newAutomatedSceneCondConf": "It's necessary to configure at least one condition to move forward",
+  "newAutomatedSceneCondOperator": "It's necessary to select and operator for enabled conditions",
+  "newAutomatedSceneInputText": "Scene name",
+  "newAutomatedScenePeriodic": "Periodic",
+
+  "newDevicesTitle": "New devices",
+  "newDevicesNoDevFound": "No device found",
+
+  "newManualSceneTitle": "Manual scene",
+  "newManualSceneInputText": "Scene name",
+  "newManualSceneAction": "Action",
+  "newManualSceneNoAction": "No configured action",
+
+  "newRoomTitle": "New room",
+  "newRoomName": "Name",
+  "newRoomCategorySelection": "Select a category for the room",
+  "newRoomPicSelection": "Select a picture for the room",
+  "newRoomOr": "or",
+
+  "roomTypeLiving": "Living",
+  "roomTypeKitchen": "Kitchen",
+  "roomTypeBedroom": "Bedroom",
+  "roomTypeBathroom": "Bathroom",
+  "roomTypeTiny": "Tiny room",
+  "roomTypeCloset": "Closet",
+  "roomTypeHallway": "Hallway",
+  "roomTypeTerrace": "Terrace",
+  "roomTypeStudy": "Study",
+  "roomTypeWashing": "Washing room",
+  "roomTypeAttic": "Attic",
+  "roomTypeGarage": "Garage",
+  "roomTypeCellar": "Cellar",
+  "roomTypeOther": "Other",
+
+  "notificationsTitle": "Notifications",
+  "notificationsDeleteConf": "Do you want to proceed deleting all notifications?",
+  "notificationsDeleteOneConf": "Do you want to proceed deleting selected notification?",
+  "notificationsShow": "Show",
+  "notificationsDelete": "Delete",
+  "notificationsNoNotificationAvailable": "No notification available",
+
+  "notificationInfoTitle": "Notification info",
+  "notificationInfoTime": "Time",
+  "notificationInfoDate": "Date",
+  "notificationInfoMessage": "Message",
+
+  "outletTitle": "Outlets",
+
+  "loginRegister": "Register",
+
+  "registrationIPNotice": "You must provide an IP address or a hostname to continue",
+  "registrationTitle": "Registration",
+  "registrationIPText": "Monday hostname or IP",
+
+  "regUserText": "Registration",
+  "regUserMinChar": "Password (min 8 char.)",
+  "regUserRepeatPwd": "Repeat password",
+
+  "scenesTitle": "Scenes",
+  "scenesAutomated": "Automated",
+  "scenesManual": "Manual",
+
+  "timeCondTitle": "Periodic condition",
+  "timeCondMonthText": "Month",
+  "timeCondDayText": "Day",
+  "timeCondTimeEnabled": "Time - Enabled",
+  "timeCondTimeDisabled": "Time - Disabled",
+  "timeCondJan": "Jan",
+  "timeCondFeb": "Feb",
+  "timeCondMar": "Mar",
+  "timeCondApr": "Apr",
+  "timeCondMay": "May",
+  "timeCondJun": "Jun",
+  "timeCondJul": "Jul",
+  "timeCondAug": "Aug",
+  "timeCondSep": "Sep",
+  "timeCondOct": "Oct",
+  "timeCondNov": "Nov",
+  "timeCondDec": "Dec",
+  "timeCondMon": "Mon",
+  "timeCondTue": "Tue",
+  "timeCondWed": "Wed",
+  "timeCondThu": "Thu",
+  "timeCondFri": "Fri",
+  "timeCondSat": "Sat",
+  "timeCondSun": "Sun",
+  "timeCondRepeatText": "Repeat",
+
+  "showSceneActionText": "Action",
+  "showAutoSceneCondText": "Condition",
+  "showSceneNoDevConfigured": "No device configured",
+  "showSceneDeleteConfirmation": "Do you want to proceed deleting the scene?",
+  "sceneAutoPeriodicText": "Periodic",
+  "sceneAutoClimateButtonText": "Climate",
+  "sceneAutoConsButtonText": "Consumption",
+
+  "shutterTitle": "Shutters",
+
+  "shutterControlOpenText": "Open",
+  "shutterControlCloseText": "Closed",
+
+  "devNotReachable": "The device is not reachable",
+
+  "surveillanceTitle": "Surveillance",
+
+  "userAccountTitle": "User account",
+  "userAccountNewPasswordLengthMsg": "New password must have at least 8 chars.",
+  "userAccountEditPasswordText": "Edit password",
+  "userAccountPasswordLength": "Password (min 8 char.)",
+  "userAccountRepeatPassword": "Repeat password",
+
+  "consumptionPanelLabel": "Consumption",
+
+  "humidityPanelLabel": "Humidity",
+
+  "temperaturePanelLabel": "Temperature",
+
+  "onOffPanelOnLabel": "On",
+  "onOffPanelOffLabel": "Off",
+
+  "controllerSysError": "A system error occurred. Please contact the administrator.",
+  "controllerTokenError": "Session token not valid",
+  "controllerLogoutError": "Logout error",
+  "controllerCommunicationError": "A device communication error occurred",
+  "controllerDevNotReachableError": "The device is not reachable",
+  "controllerUserNotEnabledError": "User has not been enabled yet",
+  "controllerWrongCredError": "Username or password wrong",
+  "controllerAllFieldsNeeded": "Please fill all the required fields",
+  "controllerMondayNotAvailableError": "Monday is not available",
+  "controllerUsernameAlreadyInUseError": "Username already in use",
+  "controllerSameLANError": "Registration can be completed only from within the same LAN where Monday is",
+  "controllerSamePasswordError": "Passwords do not match",
+  "controllerCalibrationError": "Device must be calibrated",
+
+  "systemInfoTitle" : "System infos",
+  "systemInfoMosquittoText": "Mosquitto credentials",
+
+  "textInputWrongChars": "Inserted chars not allowed. Only special characters allowed: #, !, @",
+
+  "showErrorMessageIncompleteData": "Data incomplete. Please try again"
+
+}

@@ -1,0 +1,7 @@
+[Unit]
+Description=Monday process for handling automated heating system
+After=mysqld.target
+[Service]
+ExecStart=/usr/bin/php /var/www/html/monday/process/heating_system.php
+StandardOutput=file:/var/log/monday/monday_heating_system.log
+StandardError=file:/var/log/monday/monday_heating_system.log

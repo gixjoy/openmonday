@@ -1,0 +1,246 @@
+{
+  "loginOr": "o",
+  "loginTouchIcon": "Tocca l'icona per utilizzare l'impronta digitale",
+
+  "homeWelcome": "Ciao!",
+  "homeDevices": "Dispositivi",
+  "homeUpdatedOn": "Aggiornato al",
+  "homeRooms": "Stanze",
+  "homeAlarmButton": "Citofono",
+  "homeNewButton": "Nuovi",
+  "homeClimateButton": "Clima",
+  "homeLightButton": "Luci",
+  "homeShutterButton": "Tapparelle",
+  "homeOutletButton": "Prese",
+  "homeSurveillanceButton": "Video",
+  "homeAddRoom": "Aggiungi",
+
+  "drawerUserAccount": "Account utente",
+  "drawerNotifications": "Notifiche",
+  "drawerDevices": "Dispositivi",
+  "drawerScenes": "Scenari",
+  "drawerCharts": "Grafici",
+  "drawerInfo": "Info sistema",
+  "drawerLogout": "Logout",
+
+  "alarmTitle": "Citofono",
+  "alarmStatus": "Stato",
+
+  "chartTitle": "Grafici",
+
+  "timeButtonNow": "Attuale",
+  "timeButtonToday": "Oggi",
+  "timeButtonMonth": "Mese",
+
+  "chartTemperature": "Temperatura",
+  "chartHumidity": "Umidità",
+  "chartConsumptions": "Consumi totali",
+  "chartConsumption": "Consumo",
+  "chartHour": "Ore",
+  "chartDays": "Giorni",
+  "chartAvg": "Media",
+
+  "devConfigTitle": "Dispositivo",
+  "devWarningTypeSelectionTitle": "Attenzione!",
+  "devWarningTypeSelectionBody": "Selezionare un tipo per il nuovo dispositivo",
+  "devWarningNameSelectionBody": "Selezionare un nome per il nuovo dispositivo",
+  "devConfigSelectDeviceText": "Selezionare un tipo per il dispositivo",
+
+  "devInfoName": "Nome",
+  "devInfoRoom": "Stanza",
+  "devInfoType": "Tipo",
+  "devInfoConsumption": "Consumo",
+
+  "devices": "Dispositivi",
+  "devicesInfo": "Info",
+  "devicesEdit": "Modifica",
+  "devicesDelete": "Cancella",
+
+  "devActionNoDevice": "Nessun dispositivo configurato",
+
+  "devNotAvailable": "Nessun dispositivo disponibile",
+
+  "editAutomatedSceneTitle": "Modifica scenario",
+  "editAutomatedSceneCondition": "Condizione",
+  "editAutomatedSceneAction": "Azione",
+  "editAutomatedSceneNoAction": "Nessuna azione configurata",
+  "editAutomatedSceneCondConf": "E' necessario configurare almeno una condizione per procedere",
+  "editAutomatedSceneCondOperator": "E' necessario selezionare un operatore per ogni condizione abilitata",
+  "editAutomatedScenePeriodic": "Periodico",
+
+  "editManualSceneTitle": "Modifica scenario",
+  "editManualSceneAction": "Azione",
+  "editManualSceneNoAction": "Nessuna azione configurata",
+
+  "heaterNoDeviceFound": "Nessun dispositivo Clima trovato",
+  "heaterSensorLife": "Livello batteria sensore",
+  "heaterDetectedOn": "Rilevato il",
+
+  "lightTitleBar": "Luci",
+
+  "deviceLight": "Luce",
+  "deviceOutlet": "Presa",
+  "deviceClimate": "Clima",
+  "deviceShutter": "Tapparelle",
+  "deviceClimateSensor": "Sensore clima",
+  "deviceAlarmSensor": "Sensore allarme",
+  "deviceVideo": "Video",
+
+  "roomSelectionDevice": "Selezionare una stanza per il dispositivo",
+  "roomNotAvailable": "Nessuna stanza disponibile",
+  "roomConfirmDeletion": "Confermare la cancellazione della stanza?",
+
+  "warningMsg": "Attenzione!",
+  "deleteConfirmation": "Confermare l'eliminazione del dispositivo?",
+
+  "yes": "Si",
+  "no": "No",
+
+  "deviceRemovalMsg": "Il dispositivo appartiene ad uno o più scenari. E' necessario procedere prima con la cancellazione degli scenari associati",
+
+  "newAutomatedSceneTitle": "Scenario automatico",
+  "newAutomatedSceneCondition": "Condizione",
+  "newAutomatedSceneAction": "Azione",
+  "newAutomatedSceneNoAction": "Nessuna azione configurata",
+  "newAutomatedSceneCondConf": "E' necessario configurare almeno una condizione per procedere",
+  "newAutomatedSceneCondOperator": "E' necessario selezionare un operatore per ogni condizione abilitata",
+  "newAutomatedSceneInputText": "Nome scenario",
+  "newAutomatedScenePeriodic": "Periodico",
+
+  "newDevicesTitle": "Nuovi dispositivi",
+  "newDevicesNoDevFound": "Nessun dispositivo trovato",
+
+  "newManualSceneTitle": "Scenario manuale",
+  "newManualSceneInputText": "Nome scenario",
+  "newManualSceneAction": "Azione",
+  "newManualSceneNoAction": "Nessuna azione configurata",
+
+  "newRoomTitle": "Nuova stanza",
+  "newRoomName": "Nome",
+  "newRoomCategorySelection": "Selezionare una categoria per la stanza",
+  "newRoomPicSelection": "Selezionare un'immagine per la stanza",
+  "newRoomOr": "o",
+
+  "roomTypeLiving": "Soggiorno",
+  "roomTypeKitchen": "Cucina",
+  "roomTypeBedroom": "Camera da letto",
+  "roomTypeBathroom": "Bagno",
+  "roomTypeTiny": "Cameretta",
+  "roomTypeCloset": "Ripostiglio",
+  "roomTypeHallway": "Corridoio",
+  "roomTypeTerrace": "Terrazza",
+  "roomTypeStudy": "Studio",
+  "roomTypeWashing": "Lavatoio",
+  "roomTypeAttic": "Attico",
+  "roomTypeGarage": "Garage",
+  "roomTypeCellar": "Cantina",
+  "roomTypeOther": "Altro",
+
+  "notificationsTitle": "Notifiche",
+  "notificationsDeleteConf": "Procedere con la cancellazione di tutte le notifiche?",
+  "notificationsDeleteOneConf": "Procedere con la cancellazione della notifica selezionata?",
+  "notificationsShow": "Mostra",
+  "notificationsDelete": "Cancella",
+  "notificationsNoNotificationAvailable": "Nessuna notifica disponibile",
+
+  "notificationInfoTitle": "Info notifica",
+  "notificationInfoTime": "Orario",
+  "notificationInfoDate": "Data",
+  "notificationInfoMessage": "Messaggio",
+
+  "outletTitle": "Prese",
+
+  "loginRegister": "Registrati",
+
+  "registrationIPNotice": "E' necessario fornire un indirizzo IP o un hostname per procedere",
+  "registrationTitle": "Registrazione",
+  "registrationIPText": "IP o hostname Monday",
+
+  "regUserText": "Registrazione",
+  "regUserMinChar": "Password (min 8 car.)",
+  "regUserRepeatPwd": "Repeti password",
+
+  "scenesTitle": "Scenari",
+  "scenesAutomated": "Automatici",
+  "scenesManual": "Manuali",
+
+  "timeCondTitle": "Condizione periodica",
+  "timeCondMonthText": "Mese",
+  "timeCondDayText": "Giorno",
+  "timeCondTimeEnabled": "Orario - Abilitato",
+  "timeCondTimeDisabled": "Orario - Disabilitato",
+  "timeCondJan": "Gen",
+  "timeCondFeb": "Feb",
+  "timeCondMar": "Mar",
+  "timeCondApr": "Apr",
+  "timeCondMay": "Mag",
+  "timeCondJun": "Giu",
+  "timeCondJul": "Lug",
+  "timeCondAug": "Ago",
+  "timeCondSep": "Set",
+  "timeCondOct": "Ott",
+  "timeCondNov": "Nov",
+  "timeCondDec": "Dic",
+  "timeCondMon": "L",
+  "timeCondTue": "Ma",
+  "timeCondWed": "Me",
+  "timeCondThu": "G",
+  "timeCondFri": "V",
+  "timeCondSat": "S",
+  "timeCondSun": "D",
+  "timeCondRepeatText": "Ripeti",
+
+  "showSceneActionText": "Azione",
+  "showAutoSceneCondText": "Condizione",
+  "showSceneNoDevConfigured": "Nessun dispositivo configurato",
+  "showSceneDeleteConfirmation": "Confermare la cancellazione dello scenario?",
+  "sceneAutoPeriodicText": "Periodico",
+  "sceneAutoClimateButtonText": "Clima",
+  "sceneAutoConsButtonText": "Consumo",
+
+  "shutterTitle": "Tapparelle",
+
+  "shutterControlOpenText": "Apri",
+  "shutterControlCloseText": "Chiudi",
+
+  "devNotReachable": "Il dispositivo non è raggiungibile",
+
+  "surveillanceTitle": "Sorveglianza",
+
+  "userAccountTitle": "Account utente",
+  "userAccountNewPasswordLengthMsg": "La nuova password deve avere almeno 8 caratteri",
+  "userAccountEditPasswordText": "Modifica password",
+  "userAccountPasswordLength": "Password (min 8 car.)",
+  "userAccountRepeatPassword": "Ripeti password",
+
+  "consumptionPanelLabel": "Consumo",
+
+  "humidityPanelLabel": "Umidità",
+
+  "temperaturePanelLabel": "Temperatura",
+
+  "onOffPanelOnLabel": "Accendi",
+  "onOffPanelOffLabel": "Spegni",
+
+  "controllerSysError": "Si è verificato un errore di sistema. Contattare l'amministratore",
+  "controllerTokenError": "Il token di sessione non è valido",
+  "controllerLogoutError": "Errore durante il logout",
+  "controllerCommunicationError": "Si è verificato un errore di comunicazione",
+  "controllerDevNotReachableError": "Il dispositivo non è raggiungibile",
+  "controllerUserNotEnabledError": "L'utente non è stato ancora abilitato",
+  "controllerWrongCredError": "Username o password non validi",
+  "controllerAllFieldsNeeded": "Si prega di inserire tutti i dati richiesti",
+  "controllerMondayNotAvailableError": "Monday non è al momento disponibile",
+  "controllerUsernameAlreadyInUseError": "Username già utilizzato",
+  "controllerSameLANError": "La registrazione può avvenire solo dalla stessa rete LAN in cui si trova Monday",
+  "controllerSamePasswordError": "Le password inserite non combaciano",
+  "controllerCalibrationError": "Il dispositivo deve essere calibrato",
+
+  "systemInfoTitle": "Informazioni sistema",
+  "systemInfoMosquittoText": "Credenziali Mosquitto",
+
+  "textInputWrongChars": "I caratteri inseriti non sono validi. Sono ammessi solo i simboli speciali: #, !, @",
+
+  "showErrorMessageIncompleteData": "I dati inviati non sono sufficienti. Si prega di riprovare"
+
+}

@@ -1,0 +1,6 @@
+[Unit]
+Description=Monday process for checking if climate sensor is alive
+[Service]
+ExecStart=/usr/bin/php /var/www/html/monday/process/check_ht_sensor_isalive.php
+StandardOutput=file:/var/log/monday/monday_htsensor_alive.log
+StandardError=file:/var/log/monday/monday_htsensor_alive.log
