@@ -1,5 +1,5 @@
 # Monday
-Monday is a connected home system based on Raspberry Pi and Shelly devices by [Allterco Robotics](https://allterco.com/).
+Monday is a smart home system based on Raspberry Pi and Shelly devices by [Allterco Robotics](https://allterco.com/).
 
 Are you wondering why building another connected home system? Well, I needed a no-cloud solution, able to handle all my house data privately, even if with remote access. Besides I needed a "gym" to learn [Flutter](https://flutter.dev) so I ended up building a system ready for Android and iOS, able to control most of my 
 common home devices.
